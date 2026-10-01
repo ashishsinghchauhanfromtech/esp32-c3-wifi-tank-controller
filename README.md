@@ -77,7 +77,7 @@ Future iterations could explore improved gear durability, easier assembly, optim
 Functional prototype with 3D-printed mechanical components and wireless dual-motor control.
 
 ### Assembled Prototype
-![Assembled prototype]([images\Tank-e1.jpeg](https://github.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/blob/main/mechanical-design/3d-printing-notes.md.txt))
+![Assembled prototype](images/Tank-e1.jpeg)
 
 ### Mechanical Components
 ![Chassis, gears and mounts](images/mechanical-components.jpg)
