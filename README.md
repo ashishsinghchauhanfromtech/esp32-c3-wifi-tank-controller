@@ -53,7 +53,7 @@ An **ESP32-C3 microcontroller** hosts a mobile-friendly control interface over i
 
 ### 2. Chassis Development
 
-![Chassis development](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/tank-progress.jpg)
+![Chassis development](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/tank-progress.jpeg)
 
 ### 3. Electronics and Wiring
 
