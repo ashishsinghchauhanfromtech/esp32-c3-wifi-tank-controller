@@ -1,0 +1,101 @@
+html,
+body {
+
+    margin: 0;
+
+    width: 100%;
+    height: 100%;
+
+    overflow: hidden;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    background: #222;
+
+}
+
+
+/* Main controller */
+
+#container {
+
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    gap: 15vw;
+
+    background: #706c6c;
+
+}
+
+
+
+/* Joystick tracks */
+
+#stick1,
+#stick2 {
+
+    position: relative;
+
+    width: 20vw;
+
+    height: 80vh;
+
+
+    background: #37373D;
+
+    border-radius: 25px;
+
+
+    display: flex;
+
+    justify-content: center;
+
+}
+
+
+
+/* Joystick handles */
+
+#s1,
+#s2 {
+
+
+    position: absolute;
+
+
+    width: 90%;
+
+
+    height: 70px;
+
+
+    left: 5%;
+
+
+    top: calc(50% - 35px);
+
+
+
+    background: #cecbcb;
+
+
+    border-radius: 20px;
+
+
+
+    cursor: grab;
+
+
+    touch-action: none;
+
+
+}

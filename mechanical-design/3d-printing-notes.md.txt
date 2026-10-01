@@ -1,0 +1,144 @@
+
+# 3D Printing & Manufacturing Notes
+
+## Project
+**ESP32-C3 WiFi Tank Controller — Mechanical Prototype**
+
+## 1. Manufacturing Overview
+
+The mechanical components of this tank prototype were designed in Tinkercad and fabricated using FDM (Fused Deposition Modeling) 3D printing.
+
+The printed components include:
+- Chassis
+- Gears
+- Motor mounts
+
+The objective was to create a functional mechanical structure capable of supporting the drive system and integrating with the electronic control hardware.
+
+## 2. Equipment and Materials
+
+| Parameter | Specification |
+|---|---|
+| 3D Printer | Creality Ender 3 |
+| Slicing Software | Ultimaker Cura |
+| Printing Technology | FDM / FFF |
+| Material | PLA+ |
+| Nozzle Diameter | 0.4 mm |
+| Layer Height | Not specified |
+| Infill Density | 100% |
+| Wall Settings | Not specified |
+| CAD Software | Tinkercad |
+| Export Format | STL |
+
+*Note: Layer height and wall settings are unspecified because the exact values have not been confirmed.*
+
+## 3. Design-to-Manufacturing Workflow
+
+### Step 1 — CAD Modeling
+Created the chassis, gears, and motor mounts using Tinkercad. The models were intended to provide structural support, motor mounting, and mechanical drive functionality.
+
+### Step 2 — STL Export
+Exported the designed components into STL format for preparation in the slicing software.
+
+### Step 3 — Slicing and Print Preparation
+Imported the STL models into Ultimaker Cura and prepared the components for fabrication on the Creality Ender 3.
+
+The confirmed infill density was 100%. Other slicing parameters, including layer height and wall settings, have not been documented.
+
+### Step 4 — Fabrication
+Manufactured the mechanical components using PLA+ filament and FDM 3D printing.
+
+### Step 5 — Assembly and Integration
+Assembled the printed chassis, gears, and motor mounts as part of the tank prototype. The mechanical structure was integrated with the DC motors and electronic control system.
+
+### Step 6 — Fit and Functional Evaluation
+Evaluated the printed components during assembly and prototype testing. Several issues were identified, as documented below.
+
+## 4. Printing and Assembly Observations
+
+### Gear Fracture During Support Removal
+A gear fractured at its central region during support removal, while its teeth remained intact.
+
+**Observation:** The component was vulnerable during post-processing.
+
+**Potential areas for investigation:**
+- Hub geometry and surrounding wall thickness
+- Support placement and removal technique
+- Part orientation during printing
+- Material behavior and local stress concentration
+
+**Possible future improvements:** Review the hub geometry, adjust support placement, and evaluate alternative orientations or stronger local geometry.
+
+### Gear Fit and Tolerance
+Gear engagement and fit presented tightness or looseness issues.
+
+**Observation:** The fit between mating components required attention during assembly.
+
+**Potential areas for investigation:**
+- Gear dimensions and center distance
+- Shaft and bore dimensions
+- Manufacturing tolerances
+- Printer dimensional accuracy
+
+**Possible future improvements:** Use small test prints to evaluate clearances before manufacturing the complete set of components.
+
+### Stringing or Warping
+Stringing or warping was observed during printing.
+
+**Potential areas for investigation:**
+- Retraction settings
+- Nozzle and bed temperatures
+- Bed adhesion
+- Cooling settings
+- Filament condition and storage
+
+**Possible future improvements:** Calibrate retraction, verify material-specific temperature recommendations, and review bed preparation and first-layer adhesion.
+
+### Motor Mount Alignment
+Motor mounting alignment presented an issue during assembly.
+
+**Observation:** The relationship between the mounting geometry and the motor position required attention.
+
+**Potential areas for investigation:**
+- Mounting-hole dimensions
+- Motor seating surfaces
+- Shaft alignment
+- Clearance between the motor, gears, and chassis
+
+**Possible future improvements:** Refine mounting geometry and validate alignment using a small test print before printing revised full-size parts.
+
+*The potential causes and improvements listed above are design considerations for future iterations, not confirmed root causes or completed modifications.*
+
+## 5. Design Considerations for Future Iterations
+
+Potential areas for refinement include:
+
+- Improving gear hub strength and resistance to handling damage
+- Refining gear clearances and shaft fit
+- Improving motor mounting alignment
+- Reducing printing defects through slicer calibration
+- Reviewing support placement for easier post-processing
+- Evaluating material usage and structural requirements
+- Improving assembly access and maintainability
+
+Any revised geometry or print settings should be validated through physical testing.
+
+## 6. Documentation and Reproducibility
+
+The project repository includes, or is intended to include:
+
+- Tinkercad-designed component exports in STL format
+- Prototype photographs
+- ESP32-C3 firmware
+- Browser-based motor control interface
+- Hardware and assembly documentation
+
+Exact layer height, wall settings, printing temperatures, print speeds, and support parameters have not been recorded in this document.
+
+## 7. Project Outcome
+
+The 3D-printed chassis, gears, and motor mounts form the mechanical structure of the ESP32-C3 WiFi Tank Controller prototype.
+
+The fabrication and assembly process provided practical experience with CAD-to-STL preparation, FDM manufacturing, component fit, support removal, motor mounting, and mechanical integration with embedded electronics.
+
+The identified issues provide concrete starting points for further design refinement and prototype testing.
