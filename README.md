@@ -77,7 +77,7 @@ An **ESP32-C3 microcontroller** hosts a mobile-friendly control interface over i
 
 ### 8. 3D-Printed Wheel
 
-![3D printed wheel](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/3d-printing-of-wheel-2.jpeg)
+![3D printed wheel](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/3d-printing-of-wheel-2-ezgif.com-video-to-gif-converter.gif)
 
 ### 9. Belt Prototype
 
