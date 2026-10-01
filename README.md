@@ -73,7 +73,7 @@ An **ESP32-C3 microcontroller** hosts a mobile-friendly control interface over i
 
 ### Chassis and Wheel Development
 
-[▶ Watch Chassis and Wheel Development Video](https://github.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/blob/main/images/prototype-c1.mp4)
+[▶ Watch Chassis and Wheel Development Video](https://github.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/blob/main/images/ezgif.com-video-to-gif-converter.gif)
 
 ### 8. 3D-Printed Wheel
 
