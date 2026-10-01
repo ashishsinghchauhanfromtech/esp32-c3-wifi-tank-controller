@@ -35,7 +35,7 @@ An **ESP32-C3 microcontroller** hosts a mobile-friendly control interface over i
 
 ### Design-to-Prototype Workflow
 
-1. Developed mechanical components in Tinkercad.
+1. Developed the mechanical components in Tinkercad.
 2. Exported the models as STL files.
 3. Prepared the parts for 3D printing using Ultimaker Cura.
 4. Printed the components using a Creality Ender 3.
@@ -191,7 +191,7 @@ These observations helped guide subsequent design iterations.
 
 ## 3D Models — STL Files
 
-The following links point to the 3D model files stored in this repository. They can be downloaded and opened using Cura, Tinkercad, or compatible 3D modeling software.
+The following links point to 3D model files stored in this repository. They can be downloaded and opened using Cura, Tinkercad, or compatible 3D modeling software.
 
 ### Wheels and Gears
 
