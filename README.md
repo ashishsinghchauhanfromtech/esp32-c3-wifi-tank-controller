@@ -81,7 +81,7 @@ An **ESP32-C3 microcontroller** hosts a mobile-friendly control interface over i
 
 ### 9. Belt Prototype
 
-![Belt prototype](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/tank-belt-2.jpeg)
+![Belt prototype](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/Tank-belt-2.jpeg)
 
 ### 10. Wheel Prototype
 
