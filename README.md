@@ -57,35 +57,35 @@ An **ESP32-C3 microcontroller** hosts a mobile-friendly control interface over i
 
 ### 3. Electronics and Wiring
 
-![Electronics and wiring](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/prototype-b3.jpg)
+![Electronics and wiring](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/prototype-b3.jpeg)
 
 ### 4. Mechanical Assembly
 
-![Mechanical assembly](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/prototype-b1-Copy.jpg)
+![Mechanical assembly](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/prototype-b1-Copy.jpeg)
 
 ### 5. Prototype Development
 
-![Prototype development](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/prototype-d2.jpg)
+![Prototype development](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/prototype-d2.jpeg)
 
 ### 6. Motor and Gear System
 
-![Motor and gear system](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/diagram-of-motor-engine.jpg)
+![Motor and gear system](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/diagram-of-motor-engine.jpeg)
 
 ### 7. Chassis and Wheel Development
 
-![Chassis and wheel development](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/prototype-c1.jpg)
+![Chassis and wheel development](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/prototype-c1.jpeg)
 
 ### 8. 3D-Printed Wheel
 
-![3D printed wheel](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/3d-printing-of-wheel-2.jpg)
+![3D printed wheel](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/3d-printing-of-wheel-2.jpeg)
 
 ### 9. Belt Prototype
 
-![Belt prototype](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/Tank-belt-2.jpg)
+![Belt prototype](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/Tank-belt-2.jpeg)
 
 ### 10. Wheel Prototype
 
-![Wheel prototype](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/3d-printing-of-wheel-3.jpg)
+![Wheel prototype](https://raw.githubusercontent.com/ashishsinghchauhanfromtech/esp32-c3-wifi-tank-controller/main/images/3d-printing-of-wheel-3.jpeg)
 
 ---
 
