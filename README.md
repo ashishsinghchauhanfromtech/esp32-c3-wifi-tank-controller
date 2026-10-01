@@ -76,8 +76,62 @@ Future iterations could explore improved gear durability, easier assembly, optim
 
 Functional prototype with 3D-printed mechanical components and wireless dual-motor control.
 
-### Assembled Prototype
+### Assembled Prototype 1
 ![Assembled prototype](images/Tank-e1.jpeg)
 
-### Mechanical Components
-![Chassis, gears and mounts](images/mechanical-components.jpg)
+### Assembled Prototype 2
+![Chassis, gears and mounts](images/tank-progress.jpg)
+
+### Assembled Prototype 3
+![Chassis, gears and mount,wiring,electronics](images/prototype-b3.jpg)
+
+### Assembled Prototype 4
+![Chassis, gears and mount,wiring,electronics](images/prototype-b1-Copy.jpg)
+
+### Assembled Prototype 5
+![Chassis, gears and mount,wiring,electronics](images/prototype-d2.jpg)
+
+### Assembled Prototype 6
+![Chassis, gears and mount,wiring,electronics](images/diagram-of-motor-engine.jpg)
+
+### Assembled Prototype 7
+![Chassis, gears and mount,wiring,electronics](images/prototype-c1.jpg)
+
+### Assembled Prototype 8
+![Chassis, gears and mount,wiring,electronics](images/3d-printing-of-wheel-2.jpg)
+
+### Belt Prototype 9
+![belt](images/Tank-belt-2.jpg)
+
+### Wheel Prototype 10
+![wheel](images/3d-printing-of-wheel-3.jpg)
+
+### 3D wheel stl 11
+![3D wheel stl](mechanical-design\GearWeels1-That-touches-the-ground-1-of-10-Total[12].stl)
+
+### 3D wheel stl 12
+![3D wheel stl](mechanical-design\belt-prototype-1.stl)
+
+### 3D wheel stl 13
+![3D wheel stl](mechanical-design\belt-prototype-2.stl)
+
+### 3D wheel stl 14
+![3D wheel stl](mechanical-design\Belt-tightning-wheel-gear-mount-mechanism.stl)
+
+### 3D wheel stl 15
+![3D wheel stl](mechanical-design\Chassis-top-electronic-safety.stl)
+
+### 3D wheel stl 16
+![3D wheel stl](mechanical-design\Type-c-Ports-for-charging-and-code-uploading.stl)
+
+### 3D wheel stl 18
+![3D wheel stl](mechanical-design\Type-c-Ports-for-charging-and-code-uploading.stl)
+
+### 3D wheel stl 19
+![3D wheel stl](mechanical-design\Chassis-Base-parallel-to-ground-with-usb-and-charging-indicator.stl)
+
+### 3D wheel stl 20
+![3D wheel stl](mechanical-design\belt-prototype-1.stl)
+
+
+
